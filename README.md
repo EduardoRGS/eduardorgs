@@ -1,12 +1,9 @@
 ### Olá eu sou Eduardo 😃👋
 
-- 🔭 Hoje eu trabalho coom front-end e back-end
-- 🌱 Estudando Java, SpringBoot, PostgreSQL e Angular
-
 <div align="center">
   <a href="https://github.com/eduardorgs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardorgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorgs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardorgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorgs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
