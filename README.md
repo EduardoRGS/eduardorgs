@@ -1,4 +1,4 @@
-### Olá eu sou Eduardo 😃👋
+### Olá eu sou o Eduardo 😃👋
 
 <div align="center">
   <a href="https://github.com/eduardorgs">
