@@ -1,6 +1,6 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Eduardo 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado por tecnologia e inovação.
 
 ## 🚀 Minhas Habilidades
 
