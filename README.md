@@ -1,6 +1,6 @@
-# Olá, eu sou Eduardo 👋
+# 👨‍💻 Eduardo R
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado por tecnologia e inovação.
+Desenvolvedor fullstack com experiência sólida em back-end com Java e bancos de dados, e atuação no front-end com tecnologias modernas como React e Angular. Apaixonado por construir aplicações completas, escaláveis e bem estruturadas.
 
 ## 🚀 Minhas Habilidades
 
@@ -13,11 +13,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado p
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📈 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardorgs&show_icons=true&theme=dracula)
-
 ## 📫 Como me Encontrar
 
 <a href="https://www.linkedin.com/in/eduardo-rgs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardorgs.404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:eduardorgs.404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durukar&theme=radical&layout=compact)](https://github.com/Durukar/github-readme-stats) 
